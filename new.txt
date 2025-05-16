@@ -1,4 +1,4 @@
-xsc  c232cc   
+cxsc  c232cc   
 z  x   z z   x
 merfnd s0
 n
